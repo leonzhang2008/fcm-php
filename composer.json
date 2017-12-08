@@ -1,0 +1,13 @@
+{
+    "name": "fire/fcm-php",
+    "description": "fcm",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangzhenqian",
+            "email": "jasonzhang081114@gmail.com"
+        }
+    ],
+    "require": {}
+}
