@@ -16,6 +16,5 @@
         "psr-4": {
             "leonzhang2008\\Nofification\\": "src/"
         }
-    },
-
+    }
 }
