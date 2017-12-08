@@ -5,9 +5,17 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "zhangzhenqian",
+            "name": "jasonzhang",
             "email": "jasonzhang081114@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "leonzhang2008\\Nofification\\": "src/"
+        }
+    },
+
 }
