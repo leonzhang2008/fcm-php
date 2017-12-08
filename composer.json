@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "leonzhang2008\\Nofification\\": "src/"
+            "leonzhang2008\\": "src/"
         }
     }
 }
